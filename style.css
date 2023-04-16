@@ -1,0 +1,104 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.divP{
+    box-sizing : border-box; 
+    margin : 0px 6.56px; 
+    position : static; 
+    left : auto; 
+    top : auto; 
+    width : 1906.91px; 
+    float : none; 
+    margin-top : 14%; 
+    
+
+}
+.form{
+    box-sizing : border-box; 
+    min-width : 0px; 
+    padding : 6.56px; 
+    margin : 13.12px 0px 0px; 
+    border : 1px solid rgb(170, 170, 170); 
+    margin-left: 800px;
+    margin-right: 800px; 
+    border-radius : 4px 4px 0px 0px; 
+    background : rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box; 
+    box-shadow : rgb(255, 255, 255) 1px 1px 2px 0px inset; 
+}
+.btn{
+    box-sizing : border-box; 
+    min-width : 0px; 
+    padding : 6.56px; 
+    
+    margin : 0px 800px 6.56px; 
+    margin-top : 0px; 
+    border-radius : 0px 0px 4px 4px; 
+    background : rgb(211, 220, 227) none repeat scroll 0% 0% / auto padding-box border-box; 
+    box-shadow : rgb(255, 255, 255) 1px 1px 2px 0px inset; 
+    margin-bottom : 6.56px; 
+    border-top : 0px none rgb(0, 0, 0); 
+    text-align : right; 
+    float : none; 
+    clear : both; 
+    font-weight : 400; 
+    color : rgb(0, 0, 0); 
+
+}
+.btn1{
+    box-sizing : border-box; 
+    font-family : sans-serif; 
+    font-size : 13.12px; 
+    line-height : 15.088px; 
+    overflow : visible; 
+    appearance : button; 
+    cursor : pointer; 
+    display : inline-block; 
+    font-weight : 700; 
+    color : rgb(33, 37, 41); 
+    text-align : center; 
+    vertical-align : middle; 
+    user-select : none; 
+    background-color : rgb(202, 202, 202); 
+    border : 1px solid rgb(196, 196, 196); 
+    padding : 4.92px 9.84px; 
+    border-radius : 11.152px;
+    box-shadow : rgba(255, 255, 255, 0.15) 0px 1px 0px 0px inset, rgba(0, 0, 0, 0.075) 0px 1px 1px 0px, rgba(193, 193, 194, 0.5) 0px 0px 0px 2.624px; 
+    background : rgb(202, 202, 202) linear-gradient(rgb(255, 255, 255), rgb(221, 221, 221)) repeat-x scroll 0% 0% / auto padding-box border-box; 
+    border-color : rgb(196, 196, 196); 
+    text-shadow : rgb(255, 255, 255) 0px 1px 0px; 
+    background-image : linear-gradient(rgb(255, 255, 255), rgb(221, 221, 221)); 
+}
+.button-13 {
+    background-color: #fff;
+    border: 1px solid #d5d9d9;
+    border-radius: 8px;
+    box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
+    box-sizing: border-box;
+    color: #0f1111;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Amazon Ember",sans-serif;
+    font-size: 13px;
+    line-height: 29px;
+    padding: 0 10px 0 11px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    width: 100px;
+  }
+  
+  .button-13:hover {
+    background-color: #f7fafa;
+  }
+  
+  .button-13:focus {
+    border-color: #008296;
+    box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
+    outline: 0;
+  }

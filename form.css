@@ -1,0 +1,69 @@
+*
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+  }
+  
+  body {
+    width: 100%;
+    min-height: 100vh;
+    background: rgb(245,246,247);
+    background: linear-gradient(121deg, rgba(245,246,247,1) 0%, rgba(108,121,175,1) 0%, rgba(245,149,24,1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .cadastro {
+    background-color: #fafafa;
+    border-radius: 0px;
+    box-shadow: 0 2px 5px rgba(235, 0, 0, 0.3);
+    width: 400px;
+    max-width: 100%;
+    overflow: hidden;
+    background-color: #eee;
+    padding: 20px;
+  }
+  
+  .form {
+    padding: 20px;
+  }
+  
+  .form2 {
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+    position: relative;
+  }
+  
+  .form2 label {
+    display: inline-block;
+    margin-bottom: 5px;
+  }
+  
+  .form2 input {
+    border: 2px solid #f0f0f0;
+    display: block;
+    border-radius: 25px;
+    font-size: 14px;
+    width: 100%;
+    padding: 10px;
+  }
+  
+  .form2 i {
+    position: absolute;
+    top: 45px;
+    right: 10px;
+    visibility: hidden;
+  }
+  
+  .form2 small {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    visibility: hidden;
+  }
+  .tamanho{
+      width: 500px;
+  }
